@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👋 Hi, I’m Sarah Ortega
+🦦 Pronouns: SHE/HER
+👀 I’m interested in environmental sustainability, Blockchain Technology and food.
+🌱 I’m currently learning Blockchain/Web3 Development in my spare time through videos and established repositories.
+📫 How to reach me: Email me at sarah.ortega.fuentes@gmail.com!
+
 <!--
 **ortegasarah/ortegasarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
