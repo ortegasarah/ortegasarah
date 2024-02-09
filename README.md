@@ -3,7 +3,7 @@
 👋 Hi, I’m Sarah Ortega  
 🦦 Pronouns: SHE/HER  
 👀 I’m interested in environmental sustainability, running, and web3 stuff
-🌱 I’m currently learning Blockchain/Web3 Development in my spare time through videos and established repositories  
+🌱 I’m currently learning Typescript and web3 development in my spare time through videos and established repositories  
 📫 How to reach me: Email me at sarah.ortega.fuentes@gmail.com!  
 
 <!--
